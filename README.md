@@ -22,6 +22,6 @@ git submodule add git@github.com:jbmorley/jekyll-magic-categories.git _plugins/j
 Usage
 -----
 
-Posts can be categorised by simply placing them in a directory within you `_posts` folder with the same name as the category you wish to use.
+Posts can be categorised by simply placing them in a directory within the `_posts` folder with the same name as the category you wish to use.
 
 For example, a post with path `_posts/news/2001-03-27-look-to-the-right.markdown` will automatically have the category 'news' added.
