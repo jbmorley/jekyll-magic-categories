@@ -17,6 +17,7 @@ Alternatively, if you're site is under git, you may wish to add the plugin using
 
 ```bash
 git submodule add git@github.com:jbmorley/jekyll-magic-categories.git _plugins/jekyll-magic-galleries
+```
 
 Usage
 -----
