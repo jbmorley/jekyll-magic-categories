@@ -6,7 +6,7 @@ module Reading
 
 		def generate(site)
 			for post in site.posts
-				categories = File.dirname(post.path).split("/").drop(1).map{ |dirname| dirname.split("-")[0] }
+				categories = File.dirname(post.path).split("/").drop(1)
 				post.categories |= categories
 			end
 
