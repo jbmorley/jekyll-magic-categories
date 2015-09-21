@@ -1,5 +1,5 @@
-jekyll-magic-categories
-=======================
+Jekyll Magic Categories Plugin
+==============================
 
 Jekyll plugin to automatically categorise posts by placing them in folders
 
